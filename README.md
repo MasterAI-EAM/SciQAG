@@ -12,7 +12,7 @@ pip install flash-attn --no-build-isolation
 #### Instruction Fine Tune
 ```
 torchrun --nproc_per_node=8 supervised-fine-tune.py  \
-        --model_name_or_path Llama-2-7b-longlora-16k-ft \
+        --model_name_or_path vicuna-7b-v1.5-16k \
         --bf16 True \
         --output_dir <output_dir>       \
         --model_max_length 12288 \
