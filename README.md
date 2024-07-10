@@ -1,5 +1,3 @@
-### We will update soon (before July 15th)! Thanks for your attention
-
 ### Fine Tune
 We follows the same training method as [Longlora](https://github.com/dvlab-research/LongLoRA).
 
