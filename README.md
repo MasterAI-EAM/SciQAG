@@ -133,9 +133,20 @@ args_dict = {'file_path': '<json file to inference>',
 ```
 - Note that `seq_len` is to set the sequence length for evaluation. `context_size` is to set the context length of the model during fine-tuning. `seq_len` should not be larger than `context_size`.
 
-### Evaluation
+### Visualization
 ```
-| - evaluation
+| - visualization
     | - q similarity.ipynb    # evaluate similarity scores for each two questions
     | - sentence coverage rate.ipynb    # evaluate generated QAs' coverage on paper
+```
+
+### Citation
+If you use SciQAG in your research, please cite the following paper:
+```
+@article{wan2024sciqag,
+  title={SciQAG: A Framework for Auto-Generated Scientific Question Answering Dataset with Fine-grained Evaluation},
+  author={Wan, Yuwei and Ajith, Aswathy and Liu, Yixuan and Lu, Ke and Grazian, Clara and Hoex, Bram and Zhang, Wenjie and Kit, Chunyu and Xie, Tong and Foster, Ian},
+  journal={arXiv preprint arXiv:2405.09939},
+  year={2024}
+}
 ```
