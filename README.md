@@ -140,6 +140,9 @@ args_dict = {'file_path': '<json file to inference>',
     | - sentence coverage rate.ipynb    # evaluate generated QAs' coverage on paper
 ```
 
+### data
+See README.md in data directory.
+
 ## Citation
 If you use SciQAG in your research, please cite the following paper:
 ```
