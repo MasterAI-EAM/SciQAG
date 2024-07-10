@@ -6,7 +6,7 @@ SciQAG is a novel framework for automatically generating high-quality science qu
 
 Utilizing this framework, we have constructed a large-scale, high-quality, open-ended science QA dataset containing 188,042 QA pairs extracted from 22,743 scientific papers across 24 scientific domains. We also introduce SciQAG-24D, a new benchmark task designed to evaluate the science question-answering ability of LLMs. 
 
-Extensive experiments demonstrate that fine-tuning LLMs on the SciQAG dataset significantly improves their performance on both open-ended question answering and scientific tasks. To foster research and collaboration, we make the datasets, models, and evaluation codes publicly available, contributing to the advancement of science question answering and the development of more interpretable and reasoning-capable AI systems.
+Extensive experiments demonstrate that fine-tuning LLMs on the SciQAG dataset significantly improves their performance on both open-ended question answering and scientific tasks. To foster research and collaboration, we make the datasets (see data directory), models, and evaluation codes publicly available, contributing to the advancement of science question answering and the development of more interpretable and reasoning-capable AI systems.
 
 
 ### Fine Tune
