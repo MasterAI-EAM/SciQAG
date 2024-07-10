@@ -3,6 +3,7 @@
 ## Files Description
 
 ### final_all_select1000.json
+- **Download:** [final_all_select1000.json](https://drive.google.com/file/d/1nUxRdC1F1e0Rb5BinHi4-y5_ce2UY1wn/view?usp=sharing).
 - **Format:** List of dictionaries
 - **Dictionary Keys:**
   - `doi`
@@ -25,6 +26,7 @@
 ### Train_qas_179511.json
 - Data from `final_all_select1000.json` excluding the test set.
 - Context independence removed using regular expressions.
+- **Download:** [Train_qas_179511.json](https://drive.google.com/file/d/1i1DS7zMjWmW6JboB95ddn2rjNPG8Ot4f/view?usp=sharing).
 - **Format:** List of dictionaries
   - Example:
     ```json
