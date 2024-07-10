@@ -140,7 +140,7 @@ args_dict = {'file_path': '<json file to inference>',
     | - sentence coverage rate.ipynb    # evaluate generated QAs' coverage on paper
 ```
 
-### Citation
+## Citation
 If you use SciQAG in your research, please cite the following paper:
 ```
 @article{wan2024sciqag,
@@ -150,3 +150,6 @@ If you use SciQAG in your research, please cite the following paper:
   year={2024}
 }
 ```
+
+## Contributing
+We welcome contributions to the SciQAG project. Please contact us directly for more information.
