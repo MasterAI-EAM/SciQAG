@@ -1,5 +1,8 @@
 # SciQAG-24D Dataset
 
+## Data categorized
+For SciQAG-24D divided into 24 categories, please go to storage on [Figshare](https://doi.org/10.6084/m9.figshare.26346562.v1)
+
 ## Files Description
 
 ### final_all_select1000.json
