@@ -2,7 +2,8 @@
 
 ## Data categorized
 For complete SciQAG-24D dataset (with doi) divided into 24 categories, please go to storage on [Figshare](https://doi.org/10.6084/m9.figshare.26346562.v1).
-The data in this directory is not categories (only QA pairs)
+
+Note: The data in this directory is not categorized (only divided into train and test)!
 
 ## Files Description
 
